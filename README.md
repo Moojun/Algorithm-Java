@@ -12,3 +12,4 @@
 
 ### 2. 프로그래머스 코딩테스트 고득점 KIT 풀이
 * level 1
+  * [K번째수](https://github.com/Moojun/Programmers/blob/main/level1/K%EB%B2%88%EC%A7%B8%EC%88%98.md
