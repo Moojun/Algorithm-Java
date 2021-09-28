@@ -7,7 +7,8 @@
   * [NULL 처리하기](https://github.com/Moojun/Programmers/blob/main/IS%20NULL/NULL%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md)
 * SUM, MIN, MAX
   * [최댓값 구하기](https://github.com/Moojun/Programmers/blob/main/SUM%2C%20MIN%2C%20MAX/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
-
+* String, Date
+  * [이름에 el이 들어가는 동물 찾기](https://github.com/Moojun/Programmers/tree/main/String,%20Date)
 
 
 ### 2. 프로그래머스 코딩테스트 고득점 KIT 풀이
