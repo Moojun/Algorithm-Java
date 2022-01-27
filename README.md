@@ -1,2 +1,2 @@
 # Algorithm_Study
-Programmers, BOJ, etc..
+Programmers, BOJ, etc...
