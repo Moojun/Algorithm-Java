@@ -36,7 +36,7 @@
            StringTokenizer stringTokenizer = new StringTokenizer(bufferedReader.readLine(), " ");
    
            int n = Integer.parseInt(stringTokenizer.nextToken());
-   		int m = Integer.parseInt(stringTokenizer.nextToken());
+           int m = Integer.parseInt(stringTokenizer.nextToken());
    
            bufferedReader.close();
    
