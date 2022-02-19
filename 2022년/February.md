@@ -152,13 +152,15 @@ public class Main {
 
 #### 2월 12일
 * 성공: 
-* 실패:
-* 성공하였으나 나중에 다시 볼 것(풀이 참조한 경우):
-  * 10951(A+B-4, **브3**): EOF 개념과 관련됨. 
 
+* 실패:
+
+  * 10951(A+B-4, **브3**): EOF 개념과 관련됨. 
   * 1699(제곱수의 합, **실3**): 무조건 큰 제곱수부터 빼는 것이 정답이 아니다.(1699 '질문 검색' 참고)
 
-  * 1475(방 번호, **실5**)
+* 성공하였으나 나중에 다시 볼 것(풀이 참조한 경우):
+
+  * 1475(방 번호, **실5**) : [아래 내용 참고](https://frhyme.github.io/java/java_basic02_char_to_int/)
 
     ```
     Char to Int
@@ -178,7 +180,7 @@ public class Main {
     Character.getNumericValue(c1) // 9 
     
     ```
-    [참고](https://frhyme.github.io/java/java_basic02_char_to_int/)
+  
 
 
 #### 2월 18일
