@@ -12,7 +12,7 @@ public class Code01 {
 
         System.out.println("Sum= " + num + anotherNum);     // left associativity
         // result: Sum= 25
-        // Sum: 7 (x)
+        // Sum= 7 (x)
 
         System.out.println("Sum= " + (num + anotherNum));
         // result: Sum= 7
