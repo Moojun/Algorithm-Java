@@ -13,4 +13,4 @@ strings such as compare(), concat(), equals(), split(), length(), replace(), com
 > reference link: [w3schools](https://www.w3schools.com/java/ref_string_indexof.asp)
 * The indexOf() method returns the position of the first occurrence of specified character(s) in a string.
 * 찾는 값이 없으면 -1 반환
-
+* Example: [BOJ 2789](https://www.acmicpc.net/problem/2789)
